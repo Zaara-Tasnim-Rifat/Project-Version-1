@@ -1,0 +1,9 @@
+.root{
+    -fx-background-color: #383838;
+}
+#Welcome{
+    -fx-font-size: 70px;
+    -fx-font-style: oblique;
+    -fx-text-fill: paleturquoise;
+
+}
