@@ -1,0 +1,43 @@
+.root{
+    -fx-background-color: #383838;
+}
+.label{
+    -fx-font-size: 45px;
+    -fx-font-style: oblique;
+    -fx-text-fill: paleturquoise;
+
+}
+#score{
+    -fx-font-size: 20px;
+    -fx-font-style: oblique;
+    -fx-text-fill: #ffc0cb;
+
+}
+#Welcome{
+    -fx-font-size: 150px;
+    -fx-font-style: oblique;
+    -fx-text-fill: paleturquoise;
+
+}
+.button{
+    //-fx-background-color: #AB4642;
+    -fx-text-fill: #2f4f4f;
+
+//-fx-background-size: ;
+    -fx-font-size: 55px;
+
+}
+#button-blue{
+    -fx-background-color: #7cafc2;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+
+#startButton{
+    -fx-background-color: #AB4642;
+         -fx-text-fill: #FFFFFF;
+         -fx-background-radius: 4;
+
+         -fx-font-size: 30px;
+         -fx-font-style: oblique;
+         }
